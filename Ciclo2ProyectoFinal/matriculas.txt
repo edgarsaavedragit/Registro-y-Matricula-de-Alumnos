@@ -1,0 +1,2 @@
+100001;202010001;Alexander Chumbes Lizarraga;2001;Fisica;04/07/2025;07:59
+100002;202010002;Deyner Saavedra Suarez;2002;Comunicacion;04/07/2025;08:04
